@@ -12,3 +12,5 @@ decryptGUI: gets encrpyted information about the image inside the image, exports
 encryptText: encrypts text to jpeg
 
 decryptText: decrypts text inside a jpeg
+
+Additional: See that output.png? Try viewing it using 7zip or winRAR
